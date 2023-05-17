@@ -1,0 +1,19 @@
+.card-title{
+text-align: center !important;
+color: #000;
+}
+.card-header{
+    text-align: center;
+    background-color: rgb(39, 22, 22) !important;
+    color: rgb(255, 249, 249);
+}
+.card{
+    padding-left: 10px;
+padding-right: 10px;
+}
+.card-img-top{
+    padding-top: 10px !important;
+}
+.container{
+    padding: 20px !important;
+}
